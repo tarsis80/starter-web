@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Tarsis Hersisia	tarsis@git.training	@awesometh
 
 # THANKS
 
